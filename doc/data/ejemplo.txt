@@ -1,442 +1,442 @@
-<root>
-  <h1 id="1">
-    <titulo>HTML HOME</titulo>
-    <enlace>https://www.w3schools.com/html/default.asp</enlace>
-    <h2>HTML HOME examples</h2>
-  </h1>
-  <h1 id="2">
-    <titulo>HTML Introduction</titulo>
-    <enlace>https://www.w3schools.com/html/html_intro.asp</enlace>
-    <h2>HTML Introduction examples</h2>
-  </h1>
-  <h1 id="3">
-    <titulo>HTML Editors</titulo>
-    <enlace>https://www.w3schools.com/html/html_editors.asp</enlace>
-    <h2>HTML Editors examples</h2>
-  </h1>
-  <h1 id="4">
-    <titulo>HTML Basic</titulo>
-    <enlace>https://www.w3schools.com/html/html_basic.asp</enlace>
-    <h2>HTML Basic examples</h2>
-  </h1>
-  <h1 id="5">
-    <titulo>HTML Elements</titulo>
-    <enlace>https://www.w3schools.com/html/html_elements.asp</enlace>
-    <h2>HTML Elements examples</h2>
-  </h1>
-  <h1 id="6">
-    <titulo>HTML Attributes</titulo>
-    <enlace>https://www.w3schools.com/html/html_attributes.asp</enlace>
-    <h2>HTML Attributes examples</h2>
-  </h1>
-  <h1 id="7">
-    <titulo>HTML Headings</titulo>
-    <enlace>https://www.w3schools.com/html/html_headings.asp</enlace>
-    <h2>HTML Headings examples</h2>
-  </h1>
-  <h1 id="8">
-    <titulo>HTML Paragraphs</titulo>
-    <enlace>https://www.w3schools.com/html/html_paragraphs.asp</enlace>
-    <h2>HTML Paragraphs examples</h2>
-  </h1>
-  <h1 id="9">
-    <titulo>HTML Styles</titulo>
-    <enlace>https://www.w3schools.com/html/html_styles.asp</enlace>
-    <h2>HTML Styles examples</h2>
-  </h1>
-  <h1 id="10">
-    <titulo>HTML Formatting</titulo>
-    <enlace>https://www.w3schools.com/html/html_formatting.asp</enlace>
-    <h2>HTML Formatting examples</h2>
-  </h1>
-  <h1 id="11">
-    <titulo>HTML Quotations</titulo>
-    <enlace>https://www.w3schools.com/html/html_quotation_elements.asp</enlace>
-    <h2>HTML Quotations examples</h2>
-  </h1>
-  <h1 id="12">
-    <titulo>HTML Comments</titulo>
-    <enlace>https://www.w3schools.com/html/html_comments.asp</enlace>
-    <h2>HTML Comments examples</h2>
-  </h1>
-  <h1 id="13">
-    <titulo>HTML Colors</titulo>
-    <enlace>https://www.w3schools.com/html/html_colors.asp</enlace>
-    <h2>HTML Colors examples</h2>
-  </h1>
-  <h1 id="14">
-    <titulo>HTML CSS</titulo>
-    <enlace>https://www.w3schools.com/html/html_css.asp</enlace>
-    <h2>HTML CSS examples</h2>
-  </h1>
-  <h1 id="15">
-    <titulo>HTML Links</titulo>
-    <enlace>https://www.w3schools.com/html/html_links.asp</enlace>
-    <h2>HTML Links examples</h2>
-  </h1>
-  <h1 id="16">
-    <titulo>HTML Images</titulo>
-    <enlace>https://www.w3schools.com/html/html_images.asp</enlace>
-    <h2>HTML Images examples</h2>
-  </h1>
-  <h1 id="17">
-    <titulo>HTML Favicon</titulo>
-    <enlace>https://www.w3schools.com/html/html_favicon.asp</enlace>
-    <h2>HTML Favicon examples</h2>
-  </h1>
-  <h1 id="18">
-    <titulo>HTML Page Title</titulo>
-    <enlace>https://www.w3schools.com/html/html_page_title.asp</enlace>
-    <h2>HTML Page Title examples</h2>
-  </h1>
-  <h1 id="19">
-    <titulo>HTML Tables</titulo>
-    <enlace>https://www.w3schools.com/html/html_tables.asp</enlace>
-    <h2>HTML Tables examples</h2>
-  </h1>
-  <h1 id="20">
-    <titulo>HTML Lists</titulo>
-    <enlace>https://www.w3schools.com/html/html_lists.asp</enlace>
-    <h2>HTML Lists examples</h2>
-  </h1>
-  <h1 id="21">
-    <titulo>HTML Block & Inline</titulo>
-    <enlace>https://www.w3schools.com/html/html_blocks.asp</enlace>
-    <h2>HTML Block & Inline examples</h2>
-  </h1>
-  <h1 id="22">
-    <titulo>HTML Div</titulo>
-    <enlace>https://www.w3schools.com/html/html_div.asp</enlace>
-    <h2>HTML Div examples</h2>
-  </h1>
-  <h1 id="23">
-    <titulo>HTML Classes</titulo>
-    <enlace>https://www.w3schools.com/html/html_classes.asp</enlace>
-    <h2>HTML Classes examples</h2>
-  </h1>
-  <h1 id="24">
-    <titulo>HTML Id</titulo>
-    <enlace>https://www.w3schools.com/html/html_id.asp</enlace>
-    <h2>HTML Id examples</h2>
-  </h1>
-  <h1 id="25">
-    <titulo>HTML Buttons</titulo>
-    <enlace>https://www.w3schools.com/html/html_buttons.asp</enlace>
-    <h2>HTML Buttons examples</h2>
-  </h1>
-  <h1 id="26">
-    <titulo>HTML Iframes</titulo>
-    <enlace>https://www.w3schools.com/html/html_iframe.asp</enlace>
-    <h2>HTML Iframes examples</h2>
-  </h1>
-  <h1 id="27">
-    <titulo>HTML JavaScript</titulo>
-    <enlace>https://www.w3schools.com/html/html_scripts.asp</enlace>
-    <h2>HTML JavaScript examples</h2>
-  </h1>
-  <h1 id="28">
-    <titulo>HTML File Paths</titulo>
-    <enlace>https://www.w3schools.com/html/html_filepaths.asp</enlace>
-    <h2>HTML File Paths examples</h2>
-  </h1>
-  <h1 id="29">
-    <titulo>HTML Head</titulo>
-    <enlace>https://www.w3schools.com/html/html_head.asp</enlace>
-    <h2>HTML Head examples</h2>
-  </h1>
-  <h1 id="30">
-    <titulo>HTML Layout</titulo>
-    <enlace>https://www.w3schools.com/html/html_layout.asp</enlace>
-    <h2>HTML Layout examples</h2>
-  </h1>
-  <h1 id="31">
-    <titulo>HTML Responsive</titulo>
-    <enlace>https://www.w3schools.com/html/html_responsive.asp</enlace>
-    <h2>HTML Responsive examples</h2>
-  </h1>
-  <h1 id="32">
-    <titulo>HTML Computercode</titulo>
-    <enlace>https://www.w3schools.com/html/html_computercode_elements.asp</enlace>
-    <h2>HTML Computercode examples</h2>
-  </h1>
-  <h1 id="33">
-    <titulo>HTML Semantics</titulo>
-    <enlace>https://www.w3schools.com/html/html5_semantic_elements.asp</enlace>
-    <h2>HTML Semantics examples</h2>
-  </h1>
-  <h1 id="34">
-    <titulo>HTML Style Guide</titulo>
-    <enlace>https://www.w3schools.com/html/html5_syntax.asp</enlace>
-    <h2>HTML Style Guide examples</h2>
-  </h1>
-  <h1 id="35">
-    <titulo>HTML Entities</titulo>
-    <enlace>https://www.w3schools.com/html/html_entities.asp</enlace>
-    <h2>HTML Entities examples</h2>
-  </h1>
-  <h1 id="36">
-    <titulo>HTML Symbols</titulo>
-    <enlace>https://www.w3schools.com/html/html_symbols.asp</enlace>
-    <h2>HTML Symbols examples</h2>
-  </h1>
-  <h1 id="37">
-    <titulo>HTML Emojis</titulo>
-    <enlace>https://www.w3schools.com/html/html_emojis.asp</enlace>
-    <h2>HTML Emojis examples</h2>
-  </h1>
-  <h1 id="38">
-    <titulo>HTML Charsets</titulo>
-    <enlace>https://www.w3schools.com/html/html_charset.asp</enlace>
-    <h2>HTML Charsets examples</h2>
-  </h1>
-  <h1 id="39">
-    <titulo>HTML URL Encode</titulo>
-    <enlace>https://www.w3schools.com/html/html_urlencode.asp</enlace>
-    <h2>HTML URL Encode examples</h2>
-  </h1>
-  <h1 id="40">
-    <titulo>HTML vs. XHTML</titulo>
-    <enlace>https://www.w3schools.com/html/html_xhtml.asp</enlace>
-    <h2>HTML vs. XHTML examples</h2>
-  </h1>
-  <h1 id="41">
-    <titulo>HTML Forms</titulo>
-    <enlace>https://www.w3schools.com/html/html_forms.asp</enlace>
-    <h2>HTML Forms examples</h2>
-  </h1>
-  <h1 id="42">
-    <titulo>HTML Form Attributes</titulo>
-    <enlace>https://www.w3schools.com/html/html_forms_attributes.asp</enlace>
-    <h2>HTML Form Attributes examples</h2>
-  </h1>
-  <h1 id="43">
-    <titulo>HTML Form Elements</titulo>
-    <enlace>https://www.w3schools.com/html/html_form_elements.asp</enlace>
-    <h2>HTML Form Elements examples</h2>
-  </h1>
-  <h1 id="44">
-    <titulo>HTML Input Types</titulo>
-    <enlace>https://www.w3schools.com/html/html_form_input_types.asp</enlace>
-    <h2>HTML Input Types examples</h2>
-  </h1>
-  <h1 id="45">
-    <titulo>HTML Input Attributes</titulo>
-    <enlace>https://www.w3schools.com/html/html_form_attributes.asp</enlace>
-    <h2>HTML Input Attributes examples</h2>
-  </h1>
-  <h1 id="46">
-    <titulo>Input Form Attributes</titulo>
-    <enlace>https://www.w3schools.com/html/html_form_attributes_form.asp</enlace>
-    <h2>Input Form Attributes examples</h2>
-  </h1>
-  <h1 id="47">
-    <titulo>HTML Canvas</titulo>
-    <enlace>https://www.w3schools.com/html/html5_canvas.asp</enlace>
-    <h2>HTML Canvas examples</h2>
-  </h1>
-  <h1 id="48">
-    <titulo>HTML SVG</titulo>
-    <enlace>https://www.w3schools.com/html/html5_svg.asp</enlace>
-    <h2>HTML SVG examples</h2>
-  </h1>
-  <h1 id="49">
-    <titulo>HTML Media</titulo>
-    <enlace>https://www.w3schools.com/html/html_media.asp</enlace>
-    <h2>HTML Media examples</h2>
-  </h1>
-  <h1 id="50">
-    <titulo>HTML Video</titulo>
-    <enlace>https://www.w3schools.com/html/html5_video.asp</enlace>
-    <h2>HTML Video examples</h2>
-  </h1>
-  <h1 id="51">
-    <titulo>HTML Audio</titulo>
-    <enlace>https://www.w3schools.com/html/html5_audio.asp</enlace>
-    <h2>HTML Audio examples</h2>
-  </h1>
-  <h1 id="52">
-    <titulo>HTML Plug-ins</titulo>
-    <enlace>https://www.w3schools.com/html/html_object.asp</enlace>
-    <h2>HTML Plug-ins examples</h2>
-  </h1>
-  <h1 id="53">
-    <titulo>HTML YouTube</titulo>
-    <enlace>https://www.w3schools.com/html/html_youtube.asp</enlace>
-    <h2>HTML YouTube examples</h2>
-  </h1>
-  <h1 id="54">
-    <titulo>HTML Web APIs</titulo>
-    <enlace>https://www.w3schools.com/html/html5_api_whatis.asp</enlace>
-    <h2>HTML Web APIs examples</h2>
-  </h1>
-  <h1 id="55">
-    <titulo>HTML Geolocation</titulo>
-    <enlace>https://www.w3schools.com/html/html5_geolocation.asp</enlace>
-    <h2>HTML Geolocation examples</h2>
-  </h1>
-  <h1 id="56">
-    <titulo>HTML Drag and Drop</titulo>
-    <enlace>https://www.w3schools.com/html/html5_draganddrop.asp</enlace>
-    <h2>HTML Drag and Drop examples</h2>
-  </h1>
-  <h1 id="57">
-    <titulo>HTML Web Storage</titulo>
-    <enlace>https://www.w3schools.com/html/html5_webstorage.asp</enlace>
-    <h2>HTML Web Storage examples</h2>
-  </h1>
-  <h1 id="58">
-    <titulo>HTML Web Workers</titulo>
-    <enlace>https://www.w3schools.com/html/html5_webworkers.asp</enlace>
-    <h2>HTML Web Workers examples</h2>
-  </h1>
-  <h1 id="59">
-    <titulo>HTML SSE</titulo>
-    <enlace>https://www.w3schools.com/html/html5_serversentevents.asp</enlace>
-    <h2>HTML SSE examples</h2>
-  </h1>
-  <h1 id="60">
-    <titulo>HTML Examples</titulo>
-    <enlace>https://www.w3schools.com/html/html_examples.asp</enlace>
-    <h2>HTML Examples examples</h2>
-  </h1>
-  <h1 id="61">
-    <titulo>HTML Editor</titulo>
-    <enlace>https://www.w3schools.com/html/html_editor.asp</enlace>
-    <h2>HTML Editor examples</h2>
-  </h1>
-  <h1 id="62">
-    <titulo>HTML Quiz</titulo>
-    <enlace>https://www.w3schools.com/html/html_quiz.asp</enlace>
-    <h2>HTML Quiz examples</h2>
-  </h1>
-  <h1 id="63">
-    <titulo>HTML Exercises</titulo>
-    <enlace>https://www.w3schools.com/html/html_exercises.asp</enlace>
-    <h2>HTML Exercises examples</h2>
-  </h1>
-  <h1 id="64">
-    <titulo>HTML Challenges</titulo>
-    <enlace>https://www.w3schools.com/html/html_challenges.asp</enlace>
-    <h2>HTML Challenges examples</h2>
-  </h1>
-  <h1 id="65">
-    <titulo>HTML Website</titulo>
-    <enlace>https://www.w3schools.com/html/html_website.asp</enlace>
-    <h2>HTML Website examples</h2>
-  </h1>
-  <h1 id="66">
-    <titulo>HTML Syllabus</titulo>
-    <enlace>https://www.w3schools.com/html/html_syllabus.asp</enlace>
-    <h2>HTML Syllabus examples</h2>
-  </h1>
-  <h1 id="67">
-    <titulo>HTML Study Plan</titulo>
-    <enlace>https://www.w3schools.com/html/html_study_plan.asp</enlace>
-    <h2>HTML Study Plan examples</h2>
-  </h1>
-  <h1 id="68">
-    <titulo>HTML Interview Prep</titulo>
-    <enlace>https://www.w3schools.com/html/html_interview_prep.asp</enlace>
-    <h2>HTML Interview Prep examples</h2>
-  </h1>
-  <h1 id="69">
-    <titulo>HTML Bootcamp</titulo>
-    <enlace>https://www.w3schools.com/html/html_bootcamp.asp</enlace>
-    <h2>HTML Bootcamp examples</h2>
-  </h1>
-  <h1 id="70">
-    <titulo>HTML Certificate</titulo>
-    <enlace>https://www.w3schools.com/html/html_exam.asp</enlace>
-    <h2>HTML Certificate examples</h2>
-  </h1>
-  <h1 id="71">
-    <titulo>HTML Summary</titulo>
-    <enlace>https://www.w3schools.com/html/html_summary.asp</enlace>
-    <h2>HTML Summary examples</h2>
-  </h1>
-  <h1 id="72">
-    <titulo>HTML Accessibility</titulo>
-    <enlace>https://www.w3schools.com/html/html_accessibility.asp</enlace>
-    <h2>HTML Accessibility examples</h2>
-  </h1>
-  <h1 id="73">
-    <titulo>HTML Tag List</titulo>
-    <enlace>https://www.w3schools.com/tags/default.asp</enlace>
-    <h2>HTML Tag List examples</h2>
-  </h1>
-  <h1 id="74">
-    <titulo>HTML Attributes</titulo>
-    <enlace>https://www.w3schools.com/tags/ref_attributes.asp</enlace>
-    <h2>HTML Attributes examples</h2>
-  </h1>
-  <h1 id="75">
-    <titulo>HTML Global Attributes</titulo>
-    <enlace>https://www.w3schools.com/tags/ref_standardattributes.asp</enlace>
-    <h2>HTML Global Attributes examples</h2>
-  </h1>
-  <h1 id="76">
-    <titulo>HTML Browser Support</titulo>
-    <enlace>https://www.w3schools.com/tags/ref_html_browsersupport.asp</enlace>
-    <h2>HTML Browser Support examples</h2>
-  </h1>
-  <h1 id="77">
-    <titulo>HTML Events</titulo>
-    <enlace>https://www.w3schools.com/tags/ref_eventattributes.asp</enlace>
-    <h2>HTML Events examples</h2>
-  </h1>
-  <h1 id="78">
-    <titulo>HTML Colors</titulo>
-    <enlace>https://www.w3schools.com/tags/ref_colornames.asp</enlace>
-    <h2>HTML Colors examples</h2>
-  </h1>
-  <h1 id="79">
-    <titulo>HTML Canvas</titulo>
-    <enlace>https://www.w3schools.com/tags/ref_canvas.asp</enlace>
-    <h2>HTML Canvas examples</h2>
-  </h1>
-  <h1 id="80">
-    <titulo>HTML Audio/Video</titulo>
-    <enlace>https://www.w3schools.com/tags/ref_av_dom.asp</enlace>
-    <h2>HTML Audio/Video examples</h2>
-  </h1>
-  <h1 id="81">
-    <titulo>HTML Doctypes</titulo>
-    <enlace>https://www.w3schools.com/tags/ref_html_dtd.asp</enlace>
-    <h2>HTML Doctypes examples</h2>
-  </h1>
-  <h1 id="82">
-    <titulo>HTML Character Sets</titulo>
-    <enlace>https://www.w3schools.com/tags/ref_charactersets.asp</enlace>
-    <h2>HTML Character Sets examples</h2>
-  </h1>
-  <h1 id="83">
-    <titulo>HTML URL Encode</titulo>
-    <enlace>https://www.w3schools.com/tags/ref_urlencode.asp</enlace>
-    <h2>HTML URL Encode examples</h2>
-  </h1>
-  <h1 id="84">
-    <titulo>HTML Lang Codes</titulo>
-    <enlace>https://www.w3schools.com/tags/ref_language_codes.asp</enlace>
-    <h2>HTML Lang Codes examples</h2>
-  </h1>
-  <h1 id="85">
-    <titulo>HTTP Messages</titulo>
-    <enlace>https://www.w3schools.com/tags/ref_httpmessages.asp</enlace>
-    <h2>HTTP Messages examples</h2>
-  </h1>
-  <h1 id="86">
-    <titulo>HTTP Methods</titulo>
-    <enlace>https://www.w3schools.com/tags/ref_httpmethods.asp</enlace>
-    <h2>HTTP Methods examples</h2>
-  </h1>
-  <h1 id="87">
-    <titulo>PX to EM Converter</titulo>
-    <enlace>https://www.w3schools.com/tags/ref_pxtoemconversion.asp</enlace>
-    <h2>PX to EM Converter examples</h2>
-  </h1>
-  <h1 id="88">
-    <titulo>Keyboard Shortcuts</titulo>
-    <enlace>https://www.w3schools.com/tags/ref_keyboardshortcuts.asp</enlace>
-    <h2>Keyboard Shortcuts examples</h2>
-  </h1>
-</root>
+<xml>
+<h1 id="1">
+	<titulo>HTML HOME</titulo>
+	<enlace>https://www.w3schools.com/html/default.asp</enlace>
+	<h2>HTML HOME examples</h2>
+</h1>
+<h1 id="2">
+	<titulo>HTML Introduction</titulo>
+	<enlace>https://www.w3schools.com/html/html_intro.asp</enlace>
+	<h2>HTML Introduction examples</h2>
+</h1>
+<h1 id="3">
+	<titulo>HTML Editors</titulo>
+	<enlace>https://www.w3schools.com/html/html_editors.asp</enlace>
+	<h2>HTML Editors examples</h2>
+</h1>
+<h1 id="4">
+	<titulo>HTML Basic</titulo>
+	<enlace>https://www.w3schools.com/html/html_basic.asp</enlace>
+	<h2>HTML Basic examples</h2>
+</h1>
+<h1 id="5">
+	<titulo>HTML Elements</titulo>
+	<enlace>https://www.w3schools.com/html/html_elements.asp</enlace>
+	<h2>HTML Elements examples</h2>
+</h1>
+<h1 id="6">
+	<titulo>HTML Attributes</titulo>
+	<enlace>https://www.w3schools.com/html/html_attributes.asp</enlace>
+	<h2>HTML Attributes examples</h2>
+</h1>
+<h1 id="7">
+	<titulo>HTML Headings</titulo>
+	<enlace>https://www.w3schools.com/html/html_headings.asp</enlace>
+	<h2>HTML Headings examples</h2>
+</h1>
+<h1 id="8">
+	<titulo>HTML Paragraphs</titulo>
+	<enlace>https://www.w3schools.com/html/html_paragraphs.asp</enlace>
+	<h2>HTML Paragraphs examples</h2>
+</h1>
+<h1 id="9">
+	<titulo>HTML Styles</titulo>
+	<enlace>https://www.w3schools.com/html/html_styles.asp</enlace>
+	<h2>HTML Styles examples</h2>
+</h1>
+<h1 id="10">
+	<titulo>HTML Formatting</titulo>
+	<enlace>https://www.w3schools.com/html/html_formatting.asp</enlace>
+	<h2>HTML Formatting examples</h2>
+</h1>
+<h1 id="11">
+	<titulo>HTML Quotations</titulo>
+	<enlace>https://www.w3schools.com/html/html_quotation_elements.asp</enlace>
+	<h2>HTML Quotations examples</h2>
+</h1>
+<h1 id="12">
+	<titulo>HTML Comments</titulo>
+	<enlace>https://www.w3schools.com/html/html_comments.asp</enlace>
+	<h2>HTML Comments examples</h2>
+</h1>
+<h1 id="13">
+	<titulo>HTML Colors</titulo>
+	<enlace>https://www.w3schools.com/html/html_colors.asp</enlace>
+	<h2>HTML Colors examples</h2>
+</h1>
+<h1 id="14">
+	<titulo>HTML CSS</titulo>
+	<enlace>https://www.w3schools.com/html/html_css.asp</enlace>
+	<h2>HTML CSS examples</h2>
+</h1>
+<h1 id="15">
+	<titulo>HTML Links</titulo>
+	<enlace>https://www.w3schools.com/html/html_links.asp</enlace>
+	<h2>HTML Links examples</h2>
+</h1>
+<h1 id="16">
+	<titulo>HTML Images</titulo>
+	<enlace>https://www.w3schools.com/html/html_images.asp</enlace>
+	<h2>HTML Images examples</h2>
+</h1>
+<h1 id="17">
+	<titulo>HTML Favicon</titulo>
+	<enlace>https://www.w3schools.com/html/html_favicon.asp</enlace>
+	<h2>HTML Favicon examples</h2>
+</h1>
+<h1 id="18">
+	<titulo>HTML Page Title</titulo>
+	<enlace>https://www.w3schools.com/html/html_page_title.asp</enlace>
+	<h2>HTML Page Title examples</h2>
+</h1>
+<h1 id="19">
+	<titulo>HTML Tables</titulo>
+	<enlace>https://www.w3schools.com/html/html_tables.asp</enlace>
+	<h2>HTML Tables examples</h2>
+</h1>
+<h1 id="20">
+	<titulo>HTML Lists</titulo>
+	<enlace>https://www.w3schools.com/html/html_lists.asp</enlace>
+	<h2>HTML Lists examples</h2>
+</h1>
+<h1 id="21">
+	<titulo>HTML Block & Inline</titulo>
+	<enlace>https://www.w3schools.com/html/html_blocks.asp</enlace>
+	<h2>HTML Block & Inline examples</h2>
+</h1>
+<h1 id="22">
+	<titulo>HTML Div</titulo>
+	<enlace>https://www.w3schools.com/html/html_div.asp</enlace>
+	<h2>HTML Div examples</h2>
+</h1>
+<h1 id="23">
+	<titulo>HTML Classes</titulo>
+	<enlace>https://www.w3schools.com/html/html_classes.asp</enlace>
+	<h2>HTML Classes examples</h2>
+</h1>
+<h1 id="24">
+	<titulo>HTML Id</titulo>
+	<enlace>https://www.w3schools.com/html/html_id.asp</enlace>
+	<h2>HTML Id examples</h2>
+</h1>
+<h1 id="25">
+	<titulo>HTML Buttons</titulo>
+	<enlace>https://www.w3schools.com/html/html_buttons.asp</enlace>
+	<h2>HTML Buttons examples</h2>
+</h1>
+<h1 id="26">
+	<titulo>HTML Iframes</titulo>
+	<enlace>https://www.w3schools.com/html/html_iframe.asp</enlace>
+	<h2>HTML Iframes examples</h2>
+</h1>
+<h1 id="27">
+	<titulo>HTML JavaScript</titulo>
+	<enlace>https://www.w3schools.com/html/html_scripts.asp</enlace>
+	<h2>HTML JavaScript examples</h2>
+</h1>
+<h1 id="28">
+	<titulo>HTML File Paths</titulo>
+	<enlace>https://www.w3schools.com/html/html_filepaths.asp</enlace>
+	<h2>HTML File Paths examples</h2>
+</h1>
+<h1 id="29">
+	<titulo>HTML Head</titulo>
+	<enlace>https://www.w3schools.com/html/html_head.asp</enlace>
+	<h2>HTML Head examples</h2>
+</h1>
+<h1 id="30">
+	<titulo>HTML Layout</titulo>
+	<enlace>https://www.w3schools.com/html/html_layout.asp</enlace>
+	<h2>HTML Layout examples</h2>
+</h1>
+<h1 id="31">
+	<titulo>HTML Responsive</titulo>
+	<enlace>https://www.w3schools.com/html/html_responsive.asp</enlace>
+	<h2>HTML Responsive examples</h2>
+</h1>
+<h1 id="32">
+	<titulo>HTML Computercode</titulo>
+	<enlace>https://www.w3schools.com/html/html_computercode_elements.asp</enlace>
+	<h2>HTML Computercode examples</h2>
+</h1>
+<h1 id="33">
+	<titulo>HTML Semantics</titulo>
+	<enlace>https://www.w3schools.com/html/html5_semantic_elements.asp</enlace>
+	<h2>HTML Semantics examples</h2>
+</h1>
+<h1 id="34">
+	<titulo>HTML Style Guide</titulo>
+	<enlace>https://www.w3schools.com/html/html5_syntax.asp</enlace>
+	<h2>HTML Style Guide examples</h2>
+</h1>
+<h1 id="35">
+	<titulo>HTML Entities</titulo>
+	<enlace>https://www.w3schools.com/html/html_entities.asp</enlace>
+	<h2>HTML Entities examples</h2>
+</h1>
+<h1 id="36">
+	<titulo>HTML Symbols</titulo>
+	<enlace>https://www.w3schools.com/html/html_symbols.asp</enlace>
+	<h2>HTML Symbols examples</h2>
+</h1>
+<h1 id="37">
+	<titulo>HTML Emojis</titulo>
+	<enlace>https://www.w3schools.com/html/html_emojis.asp</enlace>
+	<h2>HTML Emojis examples</h2>
+</h1>
+<h1 id="38">
+	<titulo>HTML Charsets</titulo>
+	<enlace>https://www.w3schools.com/html/html_charset.asp</enlace>
+	<h2>HTML Charsets examples</h2>
+</h1>
+<h1 id="39">
+	<titulo>HTML URL Encode</titulo>
+	<enlace>https://www.w3schools.com/html/html_urlencode.asp</enlace>
+	<h2>HTML URL Encode examples</h2>
+</h1>
+<h1 id="40">
+	<titulo>HTML vs. XHTML</titulo>
+	<enlace>https://www.w3schools.com/html/html_xhtml.asp</enlace>
+	<h2>HTML vs. XHTML examples</h2>
+</h1>
+<h1 id="41">
+	<titulo>HTML Forms</titulo>
+	<enlace>https://www.w3schools.com/html/html_forms.asp</enlace>
+	<h2>HTML Forms examples</h2>
+</h1>
+<h1 id="42">
+	<titulo>HTML Form Attributes</titulo>
+	<enlace>https://www.w3schools.com/html/html_forms_attributes.asp</enlace>
+	<h2>HTML Form Attributes examples</h2>
+</h1>
+<h1 id="43">
+	<titulo>HTML Form Elements</titulo>
+	<enlace>https://www.w3schools.com/html/html_form_elements.asp</enlace>
+	<h2>HTML Form Elements examples</h2>
+</h1>
+<h1 id="44">
+	<titulo>HTML Input Types</titulo>
+	<enlace>https://www.w3schools.com/html/html_form_input_types.asp</enlace>
+	<h2>HTML Input Types examples</h2>
+</h1>
+<h1 id="45">
+	<titulo>HTML Input Attributes</titulo>
+	<enlace>https://www.w3schools.com/html/html_form_attributes.asp</enlace>
+	<h2>HTML Input Attributes examples</h2>
+</h1>
+<h1 id="46">
+	<titulo>Input Form Attributes</titulo>
+	<enlace>https://www.w3schools.com/html/html_form_attributes_form.asp</enlace>
+	<h2>Input Form Attributes examples</h2>
+</h1>
+<h1 id="47">
+	<titulo>HTML Canvas</titulo>
+	<enlace>https://www.w3schools.com/html/html5_canvas.asp</enlace>
+	<h2>HTML Canvas examples</h2>
+</h1>
+<h1 id="48">
+	<titulo>HTML SVG</titulo>
+	<enlace>https://www.w3schools.com/html/html5_svg.asp</enlace>
+	<h2>HTML SVG examples</h2>
+</h1>
+<h1 id="49">
+	<titulo>HTML Media</titulo>
+	<enlace>https://www.w3schools.com/html/html_media.asp</enlace>
+	<h2>HTML Media examples</h2>
+</h1>
+<h1 id="50">
+	<titulo>HTML Video</titulo>
+	<enlace>https://www.w3schools.com/html/html5_video.asp</enlace>
+	<h2>HTML Video examples</h2>
+</h1>
+<h1 id="51">
+	<titulo>HTML Audio</titulo>
+	<enlace>https://www.w3schools.com/html/html5_audio.asp</enlace>
+	<h2>HTML Audio examples</h2>
+</h1>
+<h1 id="52">
+	<titulo>HTML Plug-ins</titulo>
+	<enlace>https://www.w3schools.com/html/html_object.asp</enlace>
+	<h2>HTML Plug-ins examples</h2>
+</h1>
+<h1 id="53">
+	<titulo>HTML YouTube</titulo>
+	<enlace>https://www.w3schools.com/html/html_youtube.asp</enlace>
+	<h2>HTML YouTube examples</h2>
+</h1>
+<h1 id="54">
+	<titulo>HTML Web APIs</titulo>
+	<enlace>https://www.w3schools.com/html/html5_api_whatis.asp</enlace>
+	<h2>HTML Web APIs examples</h2>
+</h1>
+<h1 id="55">
+	<titulo>HTML Geolocation</titulo>
+	<enlace>https://www.w3schools.com/html/html5_geolocation.asp</enlace>
+	<h2>HTML Geolocation examples</h2>
+</h1>
+<h1 id="56">
+	<titulo>HTML Drag and Drop</titulo>
+	<enlace>https://www.w3schools.com/html/html5_draganddrop.asp</enlace>
+	<h2>HTML Drag and Drop examples</h2>
+</h1>
+<h1 id="57">
+	<titulo>HTML Web Storage</titulo>
+	<enlace>https://www.w3schools.com/html/html5_webstorage.asp</enlace>
+	<h2>HTML Web Storage examples</h2>
+</h1>
+<h1 id="58">
+	<titulo>HTML Web Workers</titulo>
+	<enlace>https://www.w3schools.com/html/html5_webworkers.asp</enlace>
+	<h2>HTML Web Workers examples</h2>
+</h1>
+<h1 id="59">
+	<titulo>HTML SSE</titulo>
+	<enlace>https://www.w3schools.com/html/html5_serversentevents.asp</enlace>
+	<h2>HTML SSE examples</h2>
+</h1>
+<h1 id="60">
+	<titulo>HTML Examples</titulo>
+	<enlace>https://www.w3schools.com/html/html_examples.asp</enlace>
+	<h2>HTML Examples examples</h2>
+</h1>
+<h1 id="61">
+	<titulo>HTML Editor</titulo>
+	<enlace>https://www.w3schools.com/html/html_editor.asp</enlace>
+	<h2>HTML Editor examples</h2>
+</h1>
+<h1 id="62">
+	<titulo>HTML Quiz</titulo>
+	<enlace>https://www.w3schools.com/html/html_quiz.asp</enlace>
+	<h2>HTML Quiz examples</h2>
+</h1>
+<h1 id="63">
+	<titulo>HTML Exercises</titulo>
+	<enlace>https://www.w3schools.com/html/html_exercises.asp</enlace>
+	<h2>HTML Exercises examples</h2>
+</h1>
+<h1 id="64">
+	<titulo>HTML Challenges</titulo>
+	<enlace>https://www.w3schools.com/html/html_challenges.asp</enlace>
+	<h2>HTML Challenges examples</h2>
+</h1>
+<h1 id="65">
+	<titulo>HTML Website</titulo>
+	<enlace>https://www.w3schools.com/html/html_website.asp</enlace>
+	<h2>HTML Website examples</h2>
+</h1>
+<h1 id="66">
+	<titulo>HTML Syllabus</titulo>
+	<enlace>https://www.w3schools.com/html/html_syllabus.asp</enlace>
+	<h2>HTML Syllabus examples</h2>
+</h1>
+<h1 id="67">
+	<titulo>HTML Study Plan</titulo>
+	<enlace>https://www.w3schools.com/html/html_study_plan.asp</enlace>
+	<h2>HTML Study Plan examples</h2>
+</h1>
+<h1 id="68">
+	<titulo>HTML Interview Prep</titulo>
+	<enlace>https://www.w3schools.com/html/html_interview_prep.asp</enlace>
+	<h2>HTML Interview Prep examples</h2>
+</h1>
+<h1 id="69">
+	<titulo>HTML Bootcamp</titulo>
+	<enlace>https://www.w3schools.com/html/html_bootcamp.asp</enlace>
+	<h2>HTML Bootcamp examples</h2>
+</h1>
+<h1 id="70">
+	<titulo>HTML Certificate</titulo>
+	<enlace>https://www.w3schools.com/html/html_exam.asp</enlace>
+	<h2>HTML Certificate examples</h2>
+</h1>
+<h1 id="71">
+	<titulo>HTML Summary</titulo>
+	<enlace>https://www.w3schools.com/html/html_summary.asp</enlace>
+	<h2>HTML Summary examples</h2>
+</h1>
+<h1 id="72">
+	<titulo>HTML Accessibility</titulo>
+	<enlace>https://www.w3schools.com/html/html_accessibility.asp</enlace>
+	<h2>HTML Accessibility examples</h2>
+</h1>
+<h1 id="73">
+	<titulo>HTML Tag List</titulo>
+	<enlace>https://www.w3schools.com/tags/default.asp</enlace>
+	<h2>HTML Tag List examples</h2>
+</h1>
+<h1 id="74">
+	<titulo>HTML Attributes</titulo>
+	<enlace>https://www.w3schools.com/tags/ref_attributes.asp</enlace>
+	<h2>HTML Attributes examples</h2>
+</h1>
+<h1 id="75">
+	<titulo>HTML Global Attributes</titulo>
+	<enlace>https://www.w3schools.com/tags/ref_standardattributes.asp</enlace>
+	<h2>HTML Global Attributes examples</h2>
+</h1>
+<h1 id="76">
+	<titulo>HTML Browser Support</titulo>
+	<enlace>https://www.w3schools.com/tags/ref_html_browsersupport.asp</enlace>
+	<h2>HTML Browser Support examples</h2>
+</h1>
+<h1 id="77">
+	<titulo>HTML Events</titulo>
+	<enlace>https://www.w3schools.com/tags/ref_eventattributes.asp</enlace>
+	<h2>HTML Events examples</h2>
+</h1>
+<h1 id="78">
+	<titulo>HTML Colors</titulo>
+	<enlace>https://www.w3schools.com/tags/ref_colornames.asp</enlace>
+	<h2>HTML Colors examples</h2>
+</h1>
+<h1 id="79">
+	<titulo>HTML Canvas</titulo>
+	<enlace>https://www.w3schools.com/tags/ref_canvas.asp</enlace>
+	<h2>HTML Canvas examples</h2>
+</h1>
+<h1 id="80">
+	<titulo>HTML Audio/Video</titulo>
+	<enlace>https://www.w3schools.com/tags/ref_av_dom.asp</enlace>
+	<h2>HTML Audio/Video examples</h2>
+</h1>
+<h1 id="81">
+	<titulo>HTML Doctypes</titulo>
+	<enlace>https://www.w3schools.com/tags/ref_html_dtd.asp</enlace>
+	<h2>HTML Doctypes examples</h2>
+</h1>
+<h1 id="82">
+	<titulo>HTML Character Sets</titulo>
+	<enlace>https://www.w3schools.com/tags/ref_charactersets.asp</enlace>
+	<h2>HTML Character Sets examples</h2>
+</h1>
+<h1 id="83">
+	<titulo>HTML URL Encode</titulo>
+	<enlace>https://www.w3schools.com/tags/ref_urlencode.asp</enlace>
+	<h2>HTML URL Encode examples</h2>
+</h1>
+<h1 id="84">
+	<titulo>HTML Lang Codes</titulo>
+	<enlace>https://www.w3schools.com/tags/ref_language_codes.asp</enlace>
+	<h2>HTML Lang Codes examples</h2>
+</h1>
+<h1 id="85">
+	<titulo>HTTP Messages</titulo>
+	<enlace>https://www.w3schools.com/tags/ref_httpmessages.asp</enlace>
+	<h2>HTTP Messages examples</h2>
+</h1>
+<h1 id="86">
+	<titulo>HTTP Methods</titulo>
+	<enlace>https://www.w3schools.com/tags/ref_httpmethods.asp</enlace>
+	<h2>HTTP Methods examples</h2>
+</h1>
+<h1 id="87">
+	<titulo>PX to EM Converter</titulo>
+	<enlace>https://www.w3schools.com/tags/ref_pxtoemconversion.asp</enlace>
+	<h2>PX to EM Converter examples</h2>
+</h1>
+<h1 id="88">
+	<titulo>Keyboard Shortcuts</titulo>
+	<enlace>https://www.w3schools.com/tags/ref_keyboardshortcuts.asp</enlace>
+	<h2>Keyboard Shortcuts examples</h2>
+</h1>
+</xml>

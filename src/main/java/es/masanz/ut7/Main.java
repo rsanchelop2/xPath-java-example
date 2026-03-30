@@ -22,22 +22,22 @@ public class Main {
 
         int id = 1;
         StringBuilder xmlFinal = new StringBuilder();
-        xmlFinal.append("<root>\n");
+        xmlFinal.append("<xml>\n");
 
         for (Element element : elements) {
             String titulo = element.text();
             String enlace = element.attr("abs:href");
 
-            xmlFinal.append("  <h1 id=\"").append(id++).append("\">\n");
-            xmlFinal.append("    <titulo>").append(titulo).append("</titulo>\n");
-            xmlFinal.append("    <enlace>").append(enlace).append("</enlace>\n");
-            xmlFinal.append("    <h2>").append(titulo).append(" examples</h2>\n");
-            xmlFinal.append("  </h1>\n");
+            xmlFinal.append("<h1 id=\"").append(id++).append("\">\n");
+            xmlFinal.append("\t<titulo>").append(titulo).append("</titulo>\n");
+            xmlFinal.append("\t<enlace>").append(enlace).append("</enlace>\n");
+            xmlFinal.append("\t<h2>").append(titulo).append(" examples</h2>\n");
+            xmlFinal.append("</h1>\n");
 
             System.out.println(element);
         }
 
-        xmlFinal.append("</root>");
+        xmlFinal.append("</xml>");
 
         escribir(FILE_NAME, xmlFinal.toString(), false);
     }
